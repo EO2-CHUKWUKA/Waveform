@@ -1,0 +1,53 @@
+============================================================
+  POWER QUALITY WAVEFORM ANALYSER — RESULTS REPORT
+  UGMFGT-15-1 Programming for Engineers
+  Standard: EN 50160  |  Nominal: 230 V  |  50 Hz
+============================================================
+
+------------------------------------------------------------
+  PHASE A
+------------------------------------------------------------
+  RMS Voltage        : 229.8097 V   [COMPLIANT (207-253 V)]
+  Peak-to-Peak       : 650.0000 V
+  DC Offset          : -0.000000 V
+  Std Deviation      :   0.0000 V
+  Clipped Samples    : 20  [CLIPPING DETECTED]
+  Status Flags (hex) : 0x01
+    bit 0 (clipping)     : 1
+    bit 1 (out-of-tol)   : 0
+
+------------------------------------------------------------
+  PHASE B
+------------------------------------------------------------
+  RMS Voltage        : 229.8097 V   [COMPLIANT (207-253 V)]
+  Peak-to-Peak       : 649.8574 V
+  DC Offset          : +0.000000 V
+  Std Deviation      :   0.0000 V
+  Clipped Samples    : 20  [CLIPPING DETECTED]
+  Status Flags (hex) : 0x01
+    bit 0 (clipping)     : 1
+    bit 1 (out-of-tol)   : 0
+
+------------------------------------------------------------
+  PHASE C
+------------------------------------------------------------
+  RMS Voltage        : 229.8097 V   [COMPLIANT (207-253 V)]
+  Peak-to-Peak       : 649.8574 V
+  DC Offset          : -0.000000 V
+  Std Deviation      :   0.0000 V
+  Clipped Samples    : 20  [CLIPPING DETECTED]
+  Status Flags (hex) : 0x01
+    bit 0 (clipping)     : 1
+    bit 1 (out-of-tol)   : 0
+
+------------------------------------------------------------
+  SYSTEM-WIDE METRICS
+------------------------------------------------------------
+  Total Clipped Samples : 60  (all phases combined)
+  Mean Frequency        : 50.0275 Hz  (nominal 50.0 Hz)
+  Mean Power Factor     : 0.9561      (ideal 1.0)
+  Mean THD              : 2.0930 %   (<5% = clean, EN 50160 limit 8%)
+
+============================================================
+  END OF REPORT
+============================================================
