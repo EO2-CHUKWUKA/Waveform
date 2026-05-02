@@ -13,6 +13,27 @@
   DC Offset          : -0.000000 V
   Std Deviation      :   0.0000 V
   Clipped Samples    : 20  [CLIPPING DETECTED]
+>> clipping Row log (Timestamps):
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
+     - Row Timestamp: 0.000000 s | Column: Phase A
   Status Flags (hex) : 0x01
     bit 0 (clipping)     : 1
     bit 1 (out-of-tol)   : 0
@@ -25,6 +46,27 @@
   DC Offset          : +0.000000 V
   Std Deviation      :   0.0000 V
   Clipped Samples    : 20  [CLIPPING DETECTED]
+>> clipping Row log (Timestamps):
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
+     - Row Timestamp: 0.000000 s | Column: Phase B
   Status Flags (hex) : 0x01
     bit 0 (clipping)     : 1
     bit 1 (out-of-tol)   : 0
@@ -37,6 +79,27 @@
   DC Offset          : -0.000000 V
   Std Deviation      :   0.0000 V
   Clipped Samples    : 20  [CLIPPING DETECTED]
+>> clipping Row log (Timestamps):
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
+     - Row Timestamp: 0.000000 s | Column: Phase C
   Status Flags (hex) : 0x01
     bit 0 (clipping)     : 1
     bit 1 (out-of-tol)   : 0
