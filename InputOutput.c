@@ -131,6 +131,14 @@ static void format_report(FILE *out,
         fprintf(out, "  Clipped Samples    : %d%s\n",
                 r->clipped_count,
                 clipping ? "  [CLIPPING DETECTED]" : "");
+        if (clipping && r-> clipped_count > 0) {
+            fprintf(out, ">> clipping Row log (Timestamps):\n");
+            for (int j=0; j < r-> clipped_count; j++) {
+                //This prints the row/timestamp we saved earlier in Waveform.c
+                fprintf(out, "     - Row Timestamp: %.6f s | Column: Phase %c\n",
+                        r->clip_timestamps[j], r->phase_label);
+            }
+        }
         fprintf(out, "  Status Flags (hex) : 0x%02X\n", r->status_flags);
         fprintf(out, "    bit 0 (clipping)     : %d\n",
                 (r->status_flags & FLAG_CLIPPING)   ? 1 : 0);
