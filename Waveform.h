@@ -38,6 +38,7 @@ typedef struct {
         double peak_to_peak;   // The difference (max - min)
         double dc_offset;      // The average voltage
         double std_dev;
+       double clip_timestamps[1000];
         int    clipped_count;  // Number of samples >= 324.9V
         uint8_t status_flags;  // Bitmask for errors
 } PhaseResult;
