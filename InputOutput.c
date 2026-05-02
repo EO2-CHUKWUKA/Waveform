@@ -109,6 +109,7 @@ static void format_report(FILE *out,
     fprintf(out, "============================================================\n");
     fprintf(out, "  POWER QUALITY WAVEFORM ANALYSER — RESULTS REPORT\n");
     fprintf(out, "  UGMFGT-15-1 Programming for Engineers\n");
+    fprintf(out,"  Student ID: 25049425\n ");
     fprintf(out, "  Standard: EN 50160  |  Nominal: 230 V  |  50 Hz\n");
     fprintf(out, "============================================================\n\n");
 

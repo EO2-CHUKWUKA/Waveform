@@ -1,7 +1,8 @@
 ============================================================
   POWER QUALITY WAVEFORM ANALYSER — RESULTS REPORT
   UGMFGT-15-1 Programming for Engineers
-  Standard: EN 50160  |  Nominal: 230 V  |  50 Hz
+  Student ID: 25049425
+   Standard: EN 50160  |  Nominal: 230 V  |  50 Hz
 ============================================================
 
 ------------------------------------------------------------
