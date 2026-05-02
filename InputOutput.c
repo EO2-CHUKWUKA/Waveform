@@ -161,7 +161,7 @@ static void format_report(FILE *out,
             mean_thd_val);
     fprintf(out, "\n");
     fprintf(out, "============================================================\n");
-    fprintf(out, "  END OF REPORT\n");
+    fprintf(out, "THIS IS MY END OF REPORT\n");
     fprintf(out, "============================================================\n");
 }
 
